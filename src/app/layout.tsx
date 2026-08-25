@@ -38,7 +38,7 @@ export const metadata: Metadata={
             'Загрузка номеров, доходы и прогнозы из 1C:Отель — на одном экране, обновляется мгновенно.',
         images: [
             {
-                url: '/og-image.png',
+                url: '/og-image.jpg',
                 width: 1200,
                 height: 630,
                 alt: 'Boss RoomFox — дашборд для директора отеля',
@@ -49,7 +49,7 @@ export const metadata: Metadata={
         card: 'summary_large_image',
         title: 'Boss RoomFox — сводка для директора отеля',
         description: 'Загрузка номеров и доходы отеля в реальном времени из 1C:Отель.',
-        images: ['/og-image.png'],
+        images: ['/og-image.jpg'],
     },
     robots: {
         index: true,
