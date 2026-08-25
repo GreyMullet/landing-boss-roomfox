@@ -5,7 +5,7 @@ import { LightboxProvider } from '@/components/Lightbox'
 
 const inter=Inter({ subsets: ['latin', 'cyrillic'], display: 'swap' })
 
-const siteUrl='https://boss.roomfox.app'
+const siteUrl='https://present-boss.roomfox.ru'
 
 export const metadata: Metadata={
     metadataBase: new URL(siteUrl),

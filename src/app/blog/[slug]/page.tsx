@@ -5,7 +5,7 @@ const posts=[
         slug: 'kak-schitat-revpar',
         title: 'Как считать RevPAR отеля и зачем он нужен директору',
         description: 'Формула RevPAR, примеры расчёта и как эта метрика связана с загрузкой номеров.',
-    },
+    }
 ]
 
 export function generateStaticParams(){

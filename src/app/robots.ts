@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: '*',
       allow: '/',
     },
-    sitemap: 'https://boss.roomfox.app/sitemap.xml',
+    sitemap: 'https://present-boss.roomfox.ru/sitemap.xml',
   }
 }
